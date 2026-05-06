@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Stitch-6C63FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </div>
 
 ### 🔹 Cybersecurity Tools
